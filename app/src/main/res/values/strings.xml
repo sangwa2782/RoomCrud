@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RoomCrud</string>
+    <string name="time_stamp">Time Stamp:</string>
+    <string name="no_notes_here">No Notes here!!</string>
+    <string name="add_icon">Add Icon</string>
+    <string name="save">Save</string>
+    <string name="note">Note</string>
+    <string name="title">Title</string>
+</resources>
